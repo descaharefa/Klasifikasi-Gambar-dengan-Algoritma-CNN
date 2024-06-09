@@ -26,4 +26,9 @@ Gambar-gambar yang digunakan untuk pelatihan berasal dari kursus pemrograman dar
 - `README.md`: Berkas ini yang memberikan panduan dan deskripsi proyek.
 
 
-Copyright (c) [2023] [Desca Winta Harefa]
+## Kontribusi
+
+Kontribusi terhadap pembelajaran ini sangat dihargai. Jika Anda menemukan kesalahan atau ingin menambahkan materi baru, silakan buka *Issue* atau kirimkan *Pull Request*.
+
+
+Copyright (c) 2023 Desca Winta Harefa
